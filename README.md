@@ -2,6 +2,9 @@
 
 In this Project, we are performing the Implementation of the PCA (Principal Component Analysis), and using the Classifier Model to Predict the ClassCode in the Dataset.
 
+**Author : Ashish Kumar Patra**
+
+**Date : 8th Apr 2021**
 
 Dermatology dataset
 ---------------------------
@@ -152,7 +155,7 @@ Libraries used
  * [Seaborn](https://seaborn.pydata.org/)
 
 
-Run
+How to Run
 ------------------------------
     To run this Project you will need some Software, like Anaconda, which provides
     support for running .ipynb files (Jupyter Notebook).
