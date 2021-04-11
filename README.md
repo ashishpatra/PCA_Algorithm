@@ -6,7 +6,7 @@ In this Project, we are performing the Implementation of the PCA (Principal Comp
 
 **Date : 8th Apr 2021**
 
-Dermatology dataset
+Dermatology Dataset
 ---------------------------
 
 **Data Set Characteristics:**
